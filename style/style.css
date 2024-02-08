@@ -232,10 +232,6 @@ body {
   z-index: 3;
   cursor: pointer;
 }
-#nextpage {
-  z-index: 3;
-  cursor: pointer;
-}
 
 /* Media Queries */
 @media screen and (max-height: 1000px) {
