@@ -1,6 +1,6 @@
 {
     "greeting": "Heyyyy",
-    "name": "Soumya💜💜",
+    "name": "<name>💜💜",
     "greetingText": "I really really love your name by the way!",
     "wishText": "May the love always be with you! ;)",
     "imagePath": "img/lydia2.png",
@@ -18,8 +18,6 @@
     "bigTextPart2": "O",
     "wishHeading": "Happy Birthday!",
     "outroText": "Hope you enjoyed this hehe<3",
-    "outroText2": "Oh wait.....that's not all! To see some more exciting stuff specially made for you..."
-    "outroText3": "Click here!!!"
     "replayText": "Or click here, if you want to watch it again because all of this is all for you<3",
     "outroSmiley": ":)"
-  }
+  }                                    
