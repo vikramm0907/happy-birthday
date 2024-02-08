@@ -18,7 +18,6 @@ const fetchData = () => {
         // Run amimation if so
         if ( dataArr.length === dataArr.indexOf(customData) + 1 ) {
           animationTimeline();
-          redirectToAnotherPage();
         } 
       });
     });
@@ -299,15 +298,6 @@ const animationTimeline = () => {
   const replyBtn = document.getElementById("replay");
   replyBtn.addEventListener("click", () => {
     tl.restart();
-  });
-};
-
-// Redirect function
-const redirectToAnotherPage = () => {
-  const outroText3 = document.getElementById("outro-text-3");
-  outroText3.addEventListener("click", () => {
-    // Redirect to another page
-    window.location.href = "page2.html";
   });
 };
 
