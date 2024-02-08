@@ -307,7 +307,7 @@ const redirectToAnotherPage = () => {
   const outroText3 = document.getElementById("outro-text-3");
   outroText3.addEventListener("click", () => {
     // Redirect to another page
-    window.location.href = "your_other_page.html";
+    window.location.href = "page2.html";
   });
 };
 
